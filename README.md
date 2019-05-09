@@ -1,1 +1,0 @@
-# tvmanager-api
