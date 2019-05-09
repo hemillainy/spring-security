@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demo.TvManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.393 s <<< FAILURE! - in com.example.demo.TvManagerApplicationTests
+initializationError(com.example.demo.TvManagerApplicationTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

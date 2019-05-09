@@ -1,0 +1,16 @@
+com/tv/manager/security/models/AuthenticatedUser.class
+com/tv/manager/models/Profile.class
+com/tv/manager/TvManagerApplication.class
+com/tv/manager/security/models/UserCredentials.class
+com/tv/manager/security/UserAuthenticationProvider.class
+com/tv/manager/models/Role.class
+com/tv/manager/controllers/AuthenticationController.class
+com/tv/manager/exceptions/FailedAuthenticationException.class
+com/tv/manager/security/jwt/JwtAuthenticationEntryPoint.class
+com/tv/manager/security/SecurityConfig.class
+com/tv/manager/models/User.class
+com/tv/manager/services/UserService.class
+com/tv/manager/security/jwt/JwtAuthenticationFilter.class
+com/tv/manager/exceptions/UserNotFoundException.class
+com/tv/manager/repositories/UserRepository.class
+com/tv/manager/services/AuthenticationService.class

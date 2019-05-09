@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hemillainy
+Build-Jdk: 11.0.2
+Implementation-Title: tv-manager
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tv.manager
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/tv-manager
+Created-By: Maven Integration for Eclipse
+

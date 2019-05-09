@@ -1,0 +1,16 @@
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/models/Role.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/security/models/UserCredentials.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/security/SecurityConfig.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/security/jwt/JwtAuthenticationFilter.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/TvManagerApplication.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/exceptions/UserNotFoundException.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/services/AuthenticationService.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/security/jwt/JwtAuthenticationEntryPoint.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/exceptions/FailedAuthenticationException.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/security/models/AuthenticatedUser.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/models/Profile.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/services/UserService.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/security/UserAuthenticationProvider.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/repositories/UserRepository.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/models/User.java
+/home/hemillainy/Projetos/tvmanager-api/src/main/java/com/tv/manager/controllers/AuthenticationController.java
